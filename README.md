@@ -1,12 +1,14 @@
 # Data-Warehousing-and-BI-Analytics-Project
 # Project Description
-You are a data engineer hired by a solid waste management company. The company collects and recycles solid waste across major cities in the country of Brazil. The company operates hundreds of trucks of different types to collect and transport solid waste. The company would like to create a data warehouse so that it can create reports like:
+This project is part of IBM Data Engineering course on coursera. You are a data engineer hired by a solid waste management company. The company collects and recycles solid waste across major cities in the country of Brazil. The company operates hundreds of trucks of different types to collect and transport solid waste. The company would like to create a data warehouse so that it can create reports like:
 - Total waste collected per year per city
 - Total waste collected per month per city
 - Total waste collected per quarter per city
 - Total waste collected per year per truck type
 - Total waste collected per truck type per city
 - Total waste collected per truck type per station per city
+# Tools used
+- IBM Cognos Analytics business intelligence and analytics software
 # Task and Solutions
 In order to create the data warehouse, the following task were carried out:
 Task 1: Design the dimension table MyDimDate
@@ -88,3 +90,8 @@ Task 19: Create a line chart in the dashboard
 Task 20: Create a pie chart in the dashboard
 
 ![Task 20](https://github.com/DannyRukks/Data-Warehousing-and-BI-Analytics-Project/assets/97890440/e1e51f7f-e5e1-4415-9ce7-1cffc7b9488d)
+
+# Conclusion
+We have successfully created a data warehouse for the solid waste management company. The company will now be able to create reports of all solid waste collected and recycled across major cities in the country of Brazil.
+
+### Thank you 🤝
